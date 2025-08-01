@@ -1,31 +1,26 @@
 {
-  "name": "remixicon",
-  "version": "4.6.0",
-  "description": "Remix Icon is a set of open source neutral style system symbols elaborately crafted for designers and developers. All of the icons are free to use for both personal and commercial.",
-  "homepage": "https://remixicon.com",
+  "name": "handytabremixicons",
+  "version": "1.0.0",
+  "description": "A custom icon set for the HandyTab project, based on Remix Icon.",
+  "homepage": "",
   "keywords": [
+    "handytab",
     "remixicon",
-    "remix",
     "icon",
-    "icon library",
-    "icon pack"
+    "icon library"
   ],
   "files": [
     "fonts/",
     "icons/",
     "License",
     "package.json",
-    "README_CN.md",
     "README.md"
   ],
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Remix-Design/remixicon.git"
+    "url": ""
   },
-  "bugs": "https://github.com/Remix-Design/remixicon/issues",
-  "contributors": [
-    "Wendy Gao <wendygaoyuan@163.com>",
-    "Jimmy Cheung <jimmy@remixdesign.cn>"
-  ]
+  "bugs": "",
+  "contributors": []
 }
