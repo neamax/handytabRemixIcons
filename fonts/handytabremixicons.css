@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'handytabremixicons';
-  src:  url('fonts/handytabremixicons.eot?2j4rw4');
-  src:  url('fonts/handytabremixicons.eot?2j4rw4#iefix') format('embedded-opentype'),
-    url('fonts/handytabremixicons.ttf?2j4rw4') format('truetype'),
-    url('fonts/handytabremixicons.woff?2j4rw4') format('woff'),
-    url('fonts/handytabremixicons.svg?2j4rw4#handytabremixicons') format('svg');
+  src:  url('handytabremixicons.eot?2j4rw4');
+  src:  url('handytabremixicons.eot?2j4rw4#iefix') format('embedded-opentype'),
+    url('handytabremixicons.ttf?2j4rw4') format('truetype'),
+    url('handytabremixicons.woff?2j4rw4') format('woff'),
+    url('handytabremixicons.svg?2j4rw4#handytabremixicons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
